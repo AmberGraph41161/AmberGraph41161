@@ -38,6 +38,7 @@ Some of my dotfiles can be found linked below
 
 > This isn't a comprehensive list
 
+1. [hyprland](https://github.com/AmberGraph41161/hyprConf)
 1. [neovim](https://github.com/AmberGraph41161/neovimconfig)
 1. [foot](https://github.com/AmberGraph41161/footconfig)
 1. [alacritty](https://github.com/AmberGraph41161/alacrittyconfig)
